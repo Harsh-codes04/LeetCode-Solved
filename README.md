@@ -19,4 +19,8 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [2544-alternating-digit-sum](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2544-alternating-digit-sum) |
 <!---LeetCode Topics End-->
