@@ -15,6 +15,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0704-binary-search) |
+| [3024-type-of-triangle](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,4 +24,13 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 |  |
 | ------- |
 | [2544-alternating-digit-sum](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2544-alternating-digit-sum) |
+| [3024-type-of-triangle](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3024-type-of-triangle) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3024-type-of-triangle) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
