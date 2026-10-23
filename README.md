@@ -23,6 +23,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 ## Math
 |  |
 | ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2544-alternating-digit-sum](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2544-alternating-digit-sum) |
 | [3024-type-of-triangle](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3024-type-of-triangle) |
 ## Sorting
