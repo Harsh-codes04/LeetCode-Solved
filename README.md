@@ -14,6 +14,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0704-binary-search) |
 | [3024-type-of-triangle](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3024-type-of-triangle) |
 ## Binary Search
@@ -23,6 +24,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2544-alternating-digit-sum](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2544-alternating-digit-sum) |
 | [3024-type-of-triangle](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3024-type-of-triangle) |
@@ -34,4 +36,8 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3024-type-of-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
