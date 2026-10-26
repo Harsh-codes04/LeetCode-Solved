@@ -11,6 +11,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0657-robot-return-to-origin) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | ------- |
 | [0189-rotate-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2544-alternating-digit-sum) |
 | [3024-type-of-triangle](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3024-type-of-triangle) |
 ## Sorting
