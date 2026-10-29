@@ -7,6 +7,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0657-robot-return-to-origin) |
+| [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -19,6 +20,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | [0704-binary-search](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1550-three-consecutive-odds) |
+| [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3024-type-of-triangle) |
 ## Binary Search
@@ -37,6 +39,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
 | [3024-type-of-triangle](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3024-type-of-triangle) |
 ## Polygons
 |  |
@@ -47,4 +50,8 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | ------- |
 | [0189-rotate-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
