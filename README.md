@@ -7,6 +7,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0657-robot-return-to-origin) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
 ## Simulation
 |  |
@@ -57,5 +58,6 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 ## Hash Table
 |  |
 | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
