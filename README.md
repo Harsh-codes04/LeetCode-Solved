@@ -24,6 +24,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | [0704-binary-search](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1550-three-consecutive-odds) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
@@ -40,6 +41,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | ------- |
 | [0189-rotate-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2544-alternating-digit-sum) |
