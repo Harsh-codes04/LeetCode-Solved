@@ -10,6 +10,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | [0709-to-lower-case](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
+| [3019-number-of-changing-keys](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3019-number-of-changing-keys) |
 ## Simulation
 |  |
 | ------- |
