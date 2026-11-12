@@ -21,6 +21,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -37,6 +38,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0704-binary-search) |
 ## Math
 |  |
