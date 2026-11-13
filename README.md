@@ -23,6 +23,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | ------- |
 | [0035-search-insert-position](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1550-three-consecutive-odds) |
@@ -57,6 +58,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
 | [3024-type-of-triangle](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3024-type-of-triangle) |
@@ -72,6 +74,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
