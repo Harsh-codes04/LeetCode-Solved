@@ -8,6 +8,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0709-to-lower-case) |
+| [1528-shuffle-string](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
 | [3019-number-of-changing-keys](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3019-number-of-changing-keys) |
@@ -28,6 +29,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | [0682-baseball-game](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
+| [1528-shuffle-string](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
