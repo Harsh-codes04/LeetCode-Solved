@@ -9,6 +9,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | [0657-robot-return-to-origin](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1528-shuffle-string) |
+| [1816-truncate-sentence](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
@@ -32,6 +33,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1528-shuffle-string](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1550-three-consecutive-odds) |
+| [1816-truncate-sentence](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1929-concatenation-of-array) |
