@@ -14,6 +14,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3019-number-of-changing-keys](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3019-number-of-changing-keys) |
 ## Simulation
 |  |
@@ -23,6 +24,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | [1920-build-array-from-permutation](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +42,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | [1929-concatenation-of-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -86,6 +89,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | [0217-contains-duplicate](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0217-contains-duplicate) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2418-sort-the-people) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Stack
 |  |
 | ------- |
