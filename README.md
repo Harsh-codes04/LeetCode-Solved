@@ -57,6 +57,7 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 | ------- |
 | [0189-rotate-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1323-maximum-69-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -94,4 +95,8 @@ My daily LeetCode solutions using Java | Practicing Data Structures and Algorith
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/0682-baseball-game) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/Harsh-codes04/LeetCode-Solved/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
